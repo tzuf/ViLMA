@@ -1,0 +1,1801 @@
+{
+  "took": 208,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 310,
+      "relation": "eq"
+    },
+    "max_score": 1,
+    "hits": [
+      {
+        "_index": "items-000004",
+        "_id": "ztg_genshtab24-38390",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/genshtab24/38390"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_nablus_2-112631",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Nablus_2/112631"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "3e2e6e0e-7652-11ee-8e48-ab541cb639cd",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "80e8fe07-7678-11ee-8e48-a5ca9c927362",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "3808dc9c-769a-11ee-aa10-77b7daafa4ca",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "f9715f67-750f-11ee-8e48-9954c0e779b3",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "f8b58976-750f-11ee-8e48-733677cde0d6",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "e2f78514-7511-11ee-8e48-db5d94d2cabb",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jeniincamp-37739",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/jeniincamp/37739"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_ramallkah-131732",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/ramallkah/131732"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_gazapstv-32263",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Gazapstv/32263"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "c69855ed-7511-11ee-8e48-bf86b279b683",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "d37b1f5a-7532-11ee-8e48-c1400ed55f7b",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "e518dba2-7532-11ee-8e48-1977b96ebb95",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "b69af20f-755d-11ee-8e48-e1c83191ba91",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "d3a15db8-755d-11ee-8e48-4f32329fd31c",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_alnasrsabr-72384",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/alnasrsabr/72384"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_dvbcj-6405",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/dvbcj/6405"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jamilalamouri-72413",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/JamilAlAmouri/72413"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_nablus_2-112020",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Nablus_2/112020"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_alforgan_net-25652",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/alforgan_net/25652"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_alnasrsabr-70519",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/alnasrsabr/70519"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "3f16e7a1-74a7-11ee-8e48-73ab482d374f",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_qassam96-60966",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Qassam96/60966"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jerusalemmen-125401",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Jerusalemmen/125401"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "3db9ae4b-71f1-11ee-b7e7-2f70cf0336c1",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_abna_alwatn-141245",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Abna_alwatn/141245"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "c4746ffc-73f9-11ee-8e48-676aa7cb37aa",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_m3rajnet-37566",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/m3rajNet/37566"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_childrenpalestin-54402",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/childrenPalestin/54402"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "e35167a7-738d-11ee-8e48-8b4a0fcf9de0",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_mohammedmffffmm-102581",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Mohammedmffffmm/102581"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_becauseswar1-4350",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Becauseswar1/4350"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "c861af51-73af-11ee-8e48-9dc163229f11",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "58c6f924-73af-11ee-8e48-015e646486ca",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jerusalemmen-124575",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Jerusalemmen/124575"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_nabdalahrar-57273",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/nabdalahrar/57273"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "78465aa6-73b7-11ee-8e48-c9defc60fb82",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_alnasrsabr-67268",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/alnasrsabr/67268"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_tulkrmeoon-25965",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/tulkrmeoon/25965"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "6c947525-7384-11ee-8e48-99070ddd2219",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_vcxzgnfqnudzotfx-16028",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/VcXZgNFQnuDzOtfx/16028"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jerichonews-15333",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/JerichoNews/15333"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_tahrirpulse1-23565",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/TahrirPulse1/23565"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_nabuls_news-122674",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/nabuls_news/122674"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_saifalqads-70210",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Saifalqads/70210"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "61c21537-7402-11ee-8e48-594cc9b13e22",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "48972384-72ac-11ee-b412-8f7d86881387",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_wwttaannn-14321",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/wwttaannn/14321"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_safypress90-138506",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/safypress90/138506"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_nabuls_news-124516",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/nabuls_news/124516"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "af8b797b-7028-11ee-8858-1b8aef7fd97d",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "e1c777f0-707e-11ee-94e1-a35540a26498",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "6ba26514-7085-11ee-94e1-b91ce0448072",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_lbrahim_abdullah-41717",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/lbrahim_Abdullah/41717"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_ahrarnablus-42828",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/ahrarnablus/42828"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "3cfe8eee-74a7-11ee-8e48-4950b22b29ad",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "58e7cac5-74a7-11ee-8e48-2fa04907b77b",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_hawanablus-8053",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/hawanablus/8053"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "f3a96c2f-750f-11ee-8e48-fda56a004399",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jenin4-73052",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Jenin4/73052"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "0e46f876-7511-11ee-8e48-8963c96948db",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "0fb862c8-7511-11ee-8e48-635f22fb0861",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "12aebf6c-7511-11ee-8e48-c98c7586a650",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "caeeded3-7511-11ee-8e48-97485769e3cd",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "d2fbb8fe-7511-11ee-8e48-ed7c3ad84d89",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "dae74f89-7511-11ee-8e48-7fc6ab9c6b94",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "e17f15e2-7511-11ee-8e48-81b608c0ff35",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "e23ebc63-7511-11ee-8e48-cfb2205170c4",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_aboomar200-20910",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/aboomar200/20910"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "904532ed-750e-11ee-8e48-e330cf970bb8",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "f06c0732-7532-11ee-8e48-41d49a1b0e0e",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "f335fca6-7532-11ee-8e48-737f4770cb65",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "a155d8a1-755d-11ee-8e48-13bde06be05e",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "cf611bf2-755d-11ee-8e48-478a8bb421e9",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "8fa6bb0f-757b-11ee-8e48-6f867febfb52",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "aa3679b1-7589-11ee-8e48-75effa8cc9c0",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_aboomar200-21221",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/aboomar200/21221"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_bsha_ralr2-5092",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Bsha_rALr2/5092"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_vcxzgnfqnudzotfx-16478",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/VcXZgNFQnuDzOtfx/16478"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_farouq_salameh-18762",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Farouq_Salameh/18762"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "435e1d69-75d1-11ee-8e48-bbda70cfb73a",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "1943c464-7640-11ee-8e48-9baccb0d02c8",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_zaffahalashada-111969",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/zaffahAlashada/111969"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "02567a7f-765a-11ee-8e48-231ba62dc794",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_palpostn-233268",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/PalpostN/233268"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "8640794f-7669-11ee-8e48-ff2ed9536077",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ab7bdf7d-76a4-11ee-b588-3943cbf128d1",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "3a003927-76c2-11ee-b588-5bb1fcd6561f",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "29085294-770f-11ee-b588-7921e7da9ddf",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_tulkarembaladna10-92802",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/tulkarembaladna10/92802"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "863f2b9a-772b-11ee-b588-9d43cf393347",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_alforgan_net-27253",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/alforgan_net/27253"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "2398f9ff-73ef-11ee-8e48-99ef5a984c88",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_abna_alwatn-140809",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Abna_alwatn/140809"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "a75ccfe6-73b0-11ee-8e48-e9c18d45c3d7",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_childrenpalestin-55963",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/childrenPalestin/55963"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_aaaaalllllaaaaa_aaaaannnnn-19012",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/AAAAAlllllaaaaa_aaaaannnnn/19012"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_pl24online-203012",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/pl24online/203012"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "0b4c2bfe-73da-11ee-8e48-ef36ee1a8050",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_gazapstv-29838",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Gazapstv/29838"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "d7005875-7386-11ee-8e48-fd75e4fe2215",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_alnasrsabr-68320",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/alnasrsabr/68320"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_zv41ngt0ac7w10-42239",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/zv41ngt0aC7w10/42239"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "02bf2789-7394-11ee-8e48-252b491757f7",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jerichocm-15672",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/jerichocm/15672"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_zv41ngt0ac7w10-42678",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/zv41ngt0aC7w10/42678"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_nabuls_news-122183",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/nabuls_news/122183"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_nablus_alroh-72922",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/nablus_alroh/72922"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jamilalamouri-68367",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/JamilAlAmouri/68367"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_saifalqads-70227",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Saifalqads/70227"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "68f02821-7402-11ee-8e48-4117e1100664",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_becauseswar1-3845",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Becauseswar1/3845"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_palpostn-232108",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/PalpostN/232108"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "97716e1a-7028-11ee-8858-41cfa257fbac",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "9b891894-707d-11ee-94e1-799ab184078d",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "3b45b29c-7111-11ee-8ff1-bb0fd07a0be3",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "013c86f9-71e4-11ee-a212-e937365b3e6c",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "2cb95737-71e4-11ee-a212-e5cc6e6a0274",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "061ab670-71e4-11ee-a212-6f80c6af153b",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "510a6d73-71f8-11ee-b7e7-55b123916795",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "46500aa7-71f9-11ee-b7e7-113beed0bff9",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_ammanstreet-29801",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/ammanstreet/29801"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "8455bcd5-7449-11ee-8e48-53f4dee32115",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_ramallkah-129979",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/ramallkah/129979"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "89e8439f-7406-11ee-8e48-c7e79b726b51",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "f002843a-750f-11ee-8e48-994ae4855dae",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "f2ef1cde-750f-11ee-8e48-3dd9f3837533",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ef0b17a0-7532-11ee-8e48-b5b44f9f8ebf",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "e14f8f4b-755d-11ee-8e48-31b95950f8d2",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_nablus_alroh-79797",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/nablus_alroh/79797"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jeniincamp-37810",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/jeniincamp/37810"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_dheisheh_event194867-77572",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/dheisheh_event194867/77572"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_nabuls_news-126010",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/nabuls_news/126010"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "8d27f243-765f-11ee-8e48-415897b5444b",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_aaaaalllllaaaaa_aaaaannnnn-20852",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/AAAAAlllllaaaaa_aaaaannnnn/20852"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "3de8aa8f-7660-11ee-8e48-b9f4a1f7fefb",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "73d4d3c1-7676-11ee-8e48-ff70eaea3a7f",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "e66427a1-7687-11ee-8e48-8950f048714a",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jamilalamouri-72949",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/JamilAlAmouri/72949"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "cfd2d8c0-768a-11ee-8e48-2794af81020d",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "c5ac6c52-7695-11ee-aa10-4fa2f790f1f6",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_ramallkah-133738",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/ramallkah/133738"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_alforgan_net-27175",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/alforgan_net/27175"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_abna_alwatn-141291",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Abna_alwatn/141291"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ae85cbe4-7425-11ee-8e48-bf788dfada13",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_childrenpalestin-57391",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/childrenPalestin/57391"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "4924b6f3-745c-11ee-8e48-55484dc5440a",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "1deac712-74a7-11ee-8e48-0feee3f9c6bc",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "5f685f9e-74a7-11ee-8e48-9fae803e3edf",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "be0c44cd-74bd-11ee-8e48-cf212a5bfa7a",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_m7press-184834",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/m7press/184834"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jeninnews1-69164",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/jeninnews1/69164"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "0bb62b3d-73ef-11ee-8e48-3175ae95bc4d",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "e332c076-7386-11ee-8e48-37413fd2d26b",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "916767e9-738d-11ee-8e48-fdf6621e11d5",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "e1269864-738d-11ee-8e48-358042afee20",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "90767e48-7395-11ee-8e48-ab29944455dd",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "8acf0ae2-73a0-11ee-8e48-f5a79ef171f3",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_m3rajnet-37339",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/m3rajNet/37339"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "be118d4d-73b5-11ee-8e48-1fe4f5269fb7",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jinen_oqebtk5m2m0-7624",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/jinen_OQeBtk5M2M0/7624"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "34bbd7ee-7369-11ee-8e48-891a189da7ef",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "36b20b07-7380-11ee-8e48-e53ba87f8241",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_dheisheh_event194867-75058",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/dheisheh_event194867/75058"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_palpostn-230363",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/PalpostN/230363"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_abna_alwatn-139829",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Abna_alwatn/139829"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_tulkrmeoon-25269",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/tulkrmeoon/25269"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_selfetnews-20419",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/selfetnews/20419"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_tahrirpulse1-24834",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/TahrirPulse1/24834"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_hamas-15684",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/hamas/15684"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_palpostn-230554",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/PalpostN/230554"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jerichonews-15665",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/JerichoNews/15665"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "f5104f59-7401-11ee-8e48-25519a212cad",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "9faa3a46-7028-11ee-8858-412d22e428b6",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "55d5a7ff-7103-11ee-8ff1-19c28896e962",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "f1fdb11d-71dd-11ee-acb1-b145925745f4",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "e35f5228-71dd-11ee-acb1-a13648cc1726",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "4431e594-71f9-11ee-b7e7-dfbe91432053",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "c192ba23-7733-11ee-b588-e1affbd00951",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_bethany2023-4173",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/bethany2023/4173"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "83ede2b6-765f-11ee-8e48-cb848d593a92",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_zv41ngt0ac7w10-51793",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/zv41ngt0aC7w10/51793"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_jerusalemmen-127171",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/Jerusalemmen/127171"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_m3rajnet-38945",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/m3rajNet/38945"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_vorposte-48947",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/vorposte/48947"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_nablussss-62296",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/nablussss/62296"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "d7eb23b0-7532-11ee-8e48-f5dbb25365fb",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "df49956a-7532-11ee-8e48-b7851854b782",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_noursams-15458",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/noursams/15458"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "04a88a2e-757d-11ee-8e48-f3b5ccfa442f",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_palpostn-232758",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/PalpostN/232758"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "9b3b2dac-7589-11ee-8e48-d31eda00643a",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztw_1718246136371109973",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://twitter.com/Timesofgaza/status/1718246136371109973"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_zaffahalashada-111214",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/zaffahAlashada/111214"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_kataibealkkodes-79639",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/kataibealkkodes/79639"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ecbdfbd7-75b8-11ee-8e48-3f0d575aaf3f",
+        "_score": 1,
+        "_source": {}
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_askargaded-57622",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/askargaded/57622"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_sadaam_00-6090",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/SAdaaM_00/6090"
+            }
+          }
+        }
+      },
+      {
+        "_index": "items-000004",
+        "_id": "ztg_childrenpalestin-58686",
+        "_score": 1,
+        "_source": {
+          "browse": {
+            "master_browse_info": {
+              "url": "https://t.me/childrenPalestin/58686"
+            }
+          }
+        }
+      }
+    ]
+  }
+}
